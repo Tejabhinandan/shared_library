@@ -1,4 +1,4 @@
 def call() {
-    echo "Cleaning workspace"
-    deleteDir()
+    echo "Clean workspace shared library function called"
 }
+
